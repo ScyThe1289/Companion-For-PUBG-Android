@@ -1,8 +1,8 @@
-# Companion For PUBG
-##### The unofficial PUBG Companion App.
+# Companion For PUBGM
+##### The unofficial PUBGM Companion App.
 
 ### What is it?
-Companion For PUBG is an unofficial companion Android app for PlayerUnknown's Battlegrounds. Its community 
+Companion For PUBGM is an unofficial companion Android app for PlayerUnknown's Battlegrounds Mobile. Its community 
 driven to provide players with the latest and most up to date information on maps, items,
 vehicles and news.
 
